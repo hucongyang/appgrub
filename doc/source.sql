@@ -1,0 +1,1 @@
+ALTER TABLE `appgrub`.`source` CHANGE COLUMN `Name` `Name` varchar(48) NOT NULL DEFAULT '' COMMENT 'app来源', CHANGE COLUMN `Domains` `Domains` varchar(2048) NOT NULL DEFAULT '' COMMENT '允许域名', CHANGE COLUMN `ChnName` `ChnName` varchar(256) NOT NULL DEFAULT '' COMMENT '中文名', CHANGE COLUMN `OS` `OS` varchar(20) NOT NULL DEFAULT '' COMMENT '操作系统';

@@ -1,0 +1,11 @@
+
+upload/
+trunk/protected/runtime/state.bin
+/trunk/tmp/*.jpg
+/trunk/tmp/*.gif
+/trunk/assets/
+/trunk/protected/runtime/
+
+.DS_Store
+dump.rdb
+.project

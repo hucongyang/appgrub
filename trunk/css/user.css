@@ -1,0 +1,145 @@
+.ag-mz{
+    width:600px;
+    height:500px;
+    background-color: #ededed;
+    margin:50px auto 50px auto;
+}
+.ag-mz-info{
+    border:0px #ddd solid;
+    margin: 50px auto 0px auto;
+    font-size: 12px;
+    height:120px;
+    width:480px;
+}
+.ag-mz-info-img{
+    float:left;
+    margin-top:30px;
+    margin-left:20px;
+    width:100px;
+    height: 100px;
+    line-height: 78px;
+    text-align: center;
+    border:2px white solid;
+    border-radius: 500px;
+}
+.ag-mz-info-img img{
+    border-radius: 500px;
+    width:100px;
+    height: 100px;;
+}
+.ag-mz-info-username{
+    float:left;
+    margin-top:40px;
+    margin-left:20px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 30px;
+    border:0px black solid;
+}
+.ag-mz-info-username .name {
+    width: 190px;
+    float: left;
+}
+.ag-mz-info-username table{
+    border: 0px black solid;
+    width:300px;
+}
+.ag-mz-myApp{
+    border: 1px #ddd solid;
+    width:480px;
+    height:60px;
+    margin:40px auto 30px auto;
+    line-height: 60px;
+    background-color: #dddddd;
+    text-align: left;
+}
+.ag-mz-myApp span{
+    font-size: 16px;
+    margin-left: 50px;
+}
+.info-wrap{
+    width:300px;height:80px;
+}
+.info-main-left{
+    width:260px;height:30px;margin-top:10px;text-align: left;
+}
+.info-main-float-left{
+    float:left;
+}
+.info-main-float-right{
+    float:right;
+}
+.info-main-time{
+    width:290px;height:30px;
+}
+.form-horizontal .user-info {
+    font-size: 16px;
+    padding: 12px;
+    width: 300px;
+}
+.form-horizontal .control-label{
+    font-size: 16px;
+    padding: 12px;
+}
+.user-edit-modal .help-inline{
+    height:25px;
+    line-height: 25px;
+    display: block;
+}
+
+.user-edit {cursor: pointer;}
+
+.ellipsis-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#ag-mal-body-id{
+    width:100%;
+    min-height:500px;
+    border:0px black solid;
+    padding-top: 20px;
+}
+#ag-mal-body-id dt{max-width:860px;min-width:100px;margin:0 auto;}
+#ag-mal-body-id dd{padding:20px 0;position:relative;}
+#ag-mal-body-id dt h4{padding:10px 20px;}
+.ag-mal-body > dd .content-link{
+    position:absolute;
+    top:0;
+    left:400px;
+    width:600px;
+    height:100%;
+    background:none;
+    border:0px red solid;
+}
+.ag-mal-title{
+    width: 840px;
+    height: 40px;
+    margin: 50px auto 30px auto;
+    background-color: #ededed;
+    text-align: center;
+    line-height: 40px;
+    padding:0 30px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.wait-for-check{
+    color: white;
+    background-color: #363636;
+    opacity: 0.85;
+    text-align: center;
+    line-height: 38px;
+    margin-left: 44px;
+}
+.ag-mal-title .ag-mal-main-title{
+
+}
+.ag-mal-title .ag-mal-sub-title{
+    float: right;
+}
+.notification .user-info{
+    height:35px;
+}
+.notification .user-content{
+    margin: 0;
+}

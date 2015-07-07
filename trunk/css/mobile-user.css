@@ -1,0 +1,127 @@
+.ag-mz{
+    margin: 0px auto;
+    padding: 40px 10px;
+}
+.ag-mz-info{
+    float: left;
+    border:1px #ddd solid;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+}
+.ag-mz-info-img{
+    float: left;
+    width: 80px;
+    height: 80px;;
+    border:1px solid #ddd;
+}
+.ag-mz-info-username{
+    float:left;
+    margin-left: 15px;
+    text-align: left;
+    -webkit-text-size-adjust: none;
+    width: 160px;
+}
+.ag-mz-info-name{height:36px;line-height:36px;}
+.ellipsis-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.ag-mz-info-login-time{height:36px;margin-top: 5px;font-size:12px;}
+.ag-mz-myApp{
+    margin-top: 20px;
+    border: 1px #ddd solid;
+    height: 70px;
+    padding: 10px 0;
+    line-height: 50px;
+    float: left;
+}
+.ag-mz-myApp span{
+    font-size: 16px;
+    margin-left: 30px;
+}
+
+.form-horizontal .user-info {
+    font-size: 16px;
+    padding: 12px;
+    width: 300px;
+}
+.form-horizontal .control-label{
+    font-size: 16px;
+    padding: 12px;
+}
+.user-edit-modal .help-inline{
+    height:25px;
+    line-height: 25px;
+    display: block;
+}
+.user-edit {cursor: pointer;}
+
+.content-list{max-width:900px;margin:0 auto;}
+.col-md-8 .detail a{width:auto;}
+.col-md-8 .detailInProduce a{
+    width: auto;/* 要显示文字的宽度 */
+    float: left;/* 左对齐，不设置的话只在IE下好用 */
+    overflow: hidden; /* 超出的部分隐藏起来 */
+    white-space: nowrap;/* 不显示的地方用省略号...代替 */
+    text-overflow: ellipsis;/* 支持 IE */
+    -o-text-overflow: ellipsis;/* 支持 Opera */
+}
+
+.ag-mal-body .app-wait-4-grub{
+    margin-left: 44px;
+    margin-right: 10px;
+    font-size: 12px;
+    color: white;
+    background-color: #363636;
+    opacity: 0.85;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 10px;
+}
+.ag-mal-body .app-grub-failure{
+     margin-left: 44px;
+     margin-right: 10px;
+     font-size: 12px;
+     color: white;
+     background-color: #363636;
+     opacity: 0.85;
+     text-align: center;
+     line-height: 20px;
+     border-radius: 10px;
+ }
+.ag-mal-body .interaction-change-button {
+    margin-top: 20px;
+}
+.interaction-change-button ul{
+    width: 100%;
+}
+.interaction-change-button ul li{
+    text-align: center;
+    width: 50%;
+    font-weight: bold;
+}
+.ag-mal-body .content-link{
+    width: 100%;
+}
+
+.text-align-center{
+    text-align: center;
+}
+.tab-content{
+    margin-top: -15px;
+}
+.no-content{
+    text-align: center;
+    margin-top: 100px;
+}
+.mobile-mf-title{
+    width: 100%;
+    background-color: #ededed;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 20px auto 30px auto;
+}

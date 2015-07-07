@@ -1,0 +1,22 @@
+.panel {margin-top: 20px;}
+.panel:last-child {margin-bottom: 20px;}
+.opt-btn {margin-right: 10px;}
+.hide {display: none;}
+.grid-loading {text-align: center;}
+.cut-off-line {border-bottom: 1px solid #e5e5e5;}
+.icheck-radio {display: inline-block;}
+.icheck-label {display: inline-block;padding: 5px;}
+.clear {clear: both;}
+.comment-edit, .comment-delete, .info-edit {
+    display: none;
+    cursor: pointer;
+    color: #09c;
+}
+.comment-edit {
+    margin-right: 15px;
+}
+.comment:hover .comment-edit, .comment:hover .comment-delete, .content-list:hover .info-edit{
+    display: block;
+}
+.comment-selected {background-color: #f2dede;}
+.container .table select{width:120px;}
